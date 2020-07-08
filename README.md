@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Final Capstone Project for Data Science Specialization
+# github_example
+This repository is an example how to make a repository in GitHub and properly set it up.
